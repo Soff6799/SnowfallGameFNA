@@ -1,0 +1,13 @@
+# Automated tool, manual edits will be lost
+/outputDir:bin\Content
+/intermediateDir:obj\Content
+/platform:Windows
+/profile:Reach
+/compress:False
+/buildOutput:True
+/clean:True
+/rebuild:False
+/parameters:
+/refs:
+/source:Content/villageSNOW.png /builder:TextureProcessor /processor:TextureProcessor /processorParams:ColorKeyColor=255,0,255,ColorKeyEnabled=False,GenerateMipmaps=False,PremultiplyAlpha=True,ResizeToPowerOfTwo=False,MakeSquare=False,TextureFormat=Color
+/source:Content/icon-snowflake.png /builder:TextureProcessor /processor:TextureProcessor /processorParams:ColorKeyColor=255,0,255,ColorKeyEnabled=False,GenerateMipmaps=False,PremultiplyAlpha=True,ResizeToPowerOfTwo=False,MakeSquare=False,TextureFormat=Color
